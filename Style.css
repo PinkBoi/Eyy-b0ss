@@ -1,0 +1,40 @@
+.button {
+      background-color: #cc3300;
+      border: 1px solid #FFFFFF;
+      border-radius: 11px;
+      color: white;
+      padding: 7px 15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 23px;
+      margin: 4px 2px;
+      cursor: pointer;
+
+  }
+
+img {
+  width: 40em;
+  padding:2em;
+  opacity: 1.0;
+}
+
+ body {
+    background-image: url("./bilder/Backgroundhd.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    }
+
+  h1 {
+    color: #FFFFFF;
+
+  }
+
+  a:hover {
+    background-color: white;
+    color: #cc3300;
+  }
+
+  a:active {
+    background-color: grey;
+  }
